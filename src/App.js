@@ -28,13 +28,13 @@ function App() {
             <Route path="/Forgot_password" strict element=<Forgot_password/>/> 
             <Route path="/products" strict element=<Product/>/>
             <Route path='/details' strict element=<Details/>/>
-            <Route path='/bag' strict element=<Bag/>/>
+            <Route path='/bag' strict element=<Bag/>/>   
             <Route path='/orders' strict element=<Order/>/>
             <Route path='/Address' strict element=<Address/>/>
             <Route path='/AboutUs' strict element=<AboutUs/>/>
             <Route path='/privacy-policy' strict element=<PrivacyPolicy/>/>
             <Route path='/terms-conditions' strict element=<TermsAndConditions/>/>
-            <Route path='/FAQ' strict element=<FAQ/>/>
+            <Route path='/FAQ' strict element=<FAQ/>/>  
             <Route path='/contactus' strict element=<ContactUs/>/>
           </Routes>
         </Router>
